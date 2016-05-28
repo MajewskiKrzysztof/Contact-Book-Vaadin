@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contacts>
+    <contact>
+        <firstName>Krzysztof</firstName>
+        <lastName>Majewski</lastName>
+        <phone>+48777777777</phone>
+        <email>krzysztof@majewski.ninja</email>
+    </contact>
+    <contact>
+        <firstName>Willam</firstName>
+        <lastName>Hook</lastName>
+        <phone>+48777777777</phone>
+        <email>hook@william.com</email>
+    </contact>
+    <contact>
+        <firstName>Anonymous</firstName>
+        <lastName>User</lastName>
+        <phone>777777777</phone>
+        <email>anonymous@user.com</email>
+    </contact>
+</contacts>
